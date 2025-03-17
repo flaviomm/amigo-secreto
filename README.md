@@ -14,7 +14,7 @@ Este projeto é um desafio da Alura/Oracle de uma aplicação web simples para s
 1.  **Clone o repositório:**
 
     ```bash
-    git clone [https://docs.github.com/articles/referencing-and-citing-content](https://docs.github.com/articles/referencing-and-citing-content)
+    git clone [https://github.com/flaviomm/amigo-secreto](https://github.com/flaviomm/amigo-secreto)
     ```
 
 2.  **Abra o arquivo `index.html` em seu navegador.**
